@@ -8,7 +8,6 @@ This app brings together multiple simple, addictive, and brain-challenging games
 Each game is designed to be easy to learn, fast to play, and enjoyable for all ages.
 
 🕹️ Included Games
-<br\>
 🎨 1. Color Difference Detector
 
 Find the slightly different color among a grid of squares. A visual challenge that gets harder each round.
